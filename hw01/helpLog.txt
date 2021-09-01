@@ -1,0 +1,5 @@
+2021-02-2 8:00 pm: used matrix rotation calculator to find the expected values for my tests at https://www.andre-gaschler.com/rotationconverter/
+
+2021-02-3 1:00pm: used matrix arithmetic (+, -, * etc.) calculator to find the expected values for my tests at https://www.symbolab.com/solver/matrix-calculator
+
+2021-02-3 10:00pm: looked up how to output NaN at https://stackoverflow.com/questions/13759749/intentionally-return-nan

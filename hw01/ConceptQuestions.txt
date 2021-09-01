@@ -1,0 +1,15 @@
+The vec4 operator*(const vec4 &v) const in line 89 will output a 4x1 matrix because following the rules of matrix multiplication, the product of a 4x4 matrix (mat4) and a 4x1 column vector (v)  will be 4x1.
+
+The vec4 operator*(const vec4 &v, const mat4 &m) in line 106 will output a 1x4 matrix. Because matrix multiplication is not commutive, we see that a 1x4 matrix (v) multiplied by a 4x4 matrix (m) will be 1x4.
+
+Because the ordering of multiplication differs between these two operations (m * v vs v * m) the resulting matrices also differ.
+
+When the function is const the function should not change any const objects. When you have a const object you can't use any non const functions on it, so the object cannot be altered (it is constant).
+
+
+
+
+The first function can only be used in instances when we only want the value at the specific index. 
+This is returning a copy of the object/element as its a const so it should not be modified. This is useful and only used for getter functions when we simply want this value and do not need to modify it in any way.
+
+The second function can only be used in instances when we only want a reference to the value at the index and not the actual value. This can only be used for setters and when we want to modify this object. In this, we are able to access a vector's elements as [i] would return the reference to this element, so setting this element to some value variable (lets say x for val[i] = x for example) would actually modify the value element.
