@@ -1,0 +1,14 @@
+
+2021-02-24 7:00 pm: went on shadertoy to look at different shaders for inspiration
+
+2021-02-24 9:00 pm: used this shader as very slight inspiration https://www.shadertoy.com/view/wdjSRc
+
+2021-02-24 11:00 pm: visited https://thebookofshaders.com/05/ to understand different sine functions
+
+2021-02-25 2:00 am: went on https://thebookofshaders.com/13/ to understand Fractal Brownian Motion more
+
+2021-02-25 3:00 am: googled (didn't really use a specific website, just looked at google results) for info about the smoothstep function
+
+2021-02-25 9:00 pm: looked at shader toy for Inso for ec shader- ended up doing something very slightly inspired by https://www.shadertoy.com/view/ldBXDD
+
+2021-02-25 9:45 pm: looked up textureSize function at https://www.khronos.org/registry/OpenGL-Refpages/gl4/html/textureSize.xhtml
