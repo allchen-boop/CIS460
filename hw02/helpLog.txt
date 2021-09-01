@@ -1,0 +1,17 @@
+USING A LATE DAY!!
+
+
+2021-02-9 7:00 pm: TA OH help with various segmentation errors
+
+2021-02-11 7:00 pm: TA OH help with various segmentation errors
+
+2021-02-12 2:00 pm: used google to find RGB color values
+
+2021-02-12 4:00 pm: looked up segmentation fault error for my scene graph quitting at https://stackoverflow.com/questions/19522192/segmentation-fault-11-in-c-on-mac/19522257 (was not helpful tho :/)
+
+EC:
+I gave my puppet a shirt, pants, face, and hat. I also did pivots for all the limbs (can rotate shoulders, elbows, legs, neck, and head). I also added some flowers :)
+
+I also made the GUI a little nicer looking by changing the window color and font
+
+NOTE: when adding the squares sometimes you can't see it because it'll be behind the puppet (like if you add it to the pants you will have to translate the shirt to be able to see it)
