@@ -1,0 +1,9 @@
+2021-03-01 5:00 pm: looked up why I had errors with the static variables at https://www.geeksforgeeks.org/static-keyword-cpp/
+
+2021-03-02 7:00 pm: drew the cubes with Anna to figure out mesh :/
+
+2021-03-03 9:00 pm: looked up qstring append method
+
+2021-03-03 11:00 pm: looked up https://stackoverflow.com/questions/32720509/how-to-assign-and-change-the-value-of-a-qstring
+
+2021-03-04 3:00 pm: used slides (basically exactly) for triangulate and split edge
