@@ -1,0 +1,22 @@
+2021-03-10 5:00 pm: talked with Anna about the subdivide steps discussed in lecture
+
+2021-03-11 5:00 pm: looked up unordered map (wasn't working so ended up just using map) at
+http://www.cplusplus.com/reference/unordered_map/unordered_map/
+
+2021-03-11 5:00 pm: looked up begin() and end() for map at
+https://www.geeksforgeeks.org/mapbegin-end-c-stl/
+
+2021-03-12 12:00 am: looked up inserting into map at
+https://www.geeksforgeeks.org/map-insert-in-c-stl/
+
+2021-03-13 9:00 pm: looked up set (because set add() wasn't working) at
+http://www.cplusplus.com/reference/set/set/
+
+2021-03-13 11:00 pm: looked up how to access static variables at
+https://www.tutorialspoint.com/cplusplus/cpp_static_members.htm
+
+2021-03-14 10:00 am: talked with Anna about layout for importing files (going over stuff we learned in cis 240)
+
+2021-03-14 11:00 am: looked QFile at https://doc.qt.io/qt-5/qfile.html
+
+
