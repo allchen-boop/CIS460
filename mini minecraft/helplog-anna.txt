@@ -1,0 +1,4 @@
+MILESTONE 1:
+3/30/21 - discussed how to add/remove blocks with Allison because it ended up involving her edits to the chunk class
+4/1/21 - talked to Jonas about how to implement the mouseMoveEvent function for his laptop (because I have a mac and he has a windows)
+4/1/21 - asked Ashley in OH for help on my add/remove block function since it was acting weird from merging code, realized that my ray was set up wrong

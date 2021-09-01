@@ -1,0 +1,4 @@
+- Perlin noise on website vs slides
+- Bounding the output in [-1, 1] or [0, 1]
+- Initializing multiple base noise functions with different primes
+- How to think about making noise fn less noisy
